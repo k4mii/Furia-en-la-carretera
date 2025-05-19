@@ -1,0 +1,15 @@
+gamebase\elements\LectorArchivoTextoPlano.class
+autonoma\furiaenlacarretera\elements\GameField.class
+gamebase\elements\SpriteMobile.class
+gamebase\elements\Lector.class
+gamebase\elements\EscritorArchivoTextoPlano.class
+autonoma\furiaenlacarretera\views\VentanaInicial.class
+autonoma\furiaenlacarretera\ui\GameWindow.class
+autonoma\furiaenlacarretera\main\Main.class
+autonoma\furiaenlacarretera\sounds\ReproducirSonido.class
+autonoma\furiaenlacarretera\views\VentanaInicial$1.class
+gamebase\elements\SpriteContainer.class
+autonoma\furiaenlacarretera\views\VentanaInicial$2.class
+gamebase\elements\Escritor.class
+gamebase\elements\Sprite.class
+gamebase\elements\GraphicContainer.class
